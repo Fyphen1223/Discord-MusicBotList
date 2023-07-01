@@ -31,3 +31,37 @@ Functions evaluation: 10/10
 
 
 Overall: 9/10
+
+Overall: 9/10
+
+## Chip
+Invite Link: [Link](https://chipbot.gg/invite/chip)
+
+Status: Stable
+
+Open Source: False 
+
+Image: 
+
+![Chip Music Panel](./images/chip/panel.png)
+
+Functions evaluation: 8/10
+
+
+Overall: 8/10
+
+## Chip
+Invite Link: [Link](https://chipbot.gg/invite/chip)
+
+Status: Stable
+
+Open Source: False 
+
+Image: 
+
+![Chip Music Panel](./images/chip/panel.png)
+
+Functions evaluation: 8/10
+
+
+Overall: 8/10
