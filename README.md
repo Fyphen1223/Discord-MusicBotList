@@ -7,7 +7,9 @@ Status: Stable
 
 Open Source: False
 
-Image: ![Lara Music Panel](./images/lara/panel.png)
+Image: 
+
+![Lara Music Panel](./images/lara/panel.png)
 
 Functions evaluation: 9/10
 
